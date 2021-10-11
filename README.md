@@ -1,4 +1,4 @@
-# This is the repo for the Todo App Backend
+# This is the repo for all the Backend stuff
 
 In this backend project, we use tech stacks:
 - NodeJS
@@ -8,3 +8,5 @@ In this backend project, we use tech stacks:
 - MongoDB Atlas
 - Eslint-TypeScript
 - Prettier
+
+Let's get starting! Clone the repo!
